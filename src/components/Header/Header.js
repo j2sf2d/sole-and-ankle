@@ -8,6 +8,7 @@ import SuperHeader from '../SuperHeader';
 const Header = () => {
   // Our site features two visual headers, but they should be
   // grouped semantically as a single header.
+  // just for fun
   return (
     <header>
       <SuperHeader />
